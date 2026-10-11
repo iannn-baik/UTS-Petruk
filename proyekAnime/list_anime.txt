@@ -1,0 +1,7 @@
+Naruto|220|Selesai
+black clover|170|selesai
+attack on titan|210|selesai
+Detective Conan|1100|Belum selesai
+Bleach|366|Belum selesai
+Dragon Ball Z|291|Belum selesai
+Death Note|37|selesai
