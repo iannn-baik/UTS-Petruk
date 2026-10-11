@@ -1,6 +1,6 @@
 # Pengujian otomatis menggunakan library unittest.
 import unittest
-from .proses import anime, animeManager, animeManager
+from .proses import anime, animeManager
 from .validasi import DataAnimeError
 
 

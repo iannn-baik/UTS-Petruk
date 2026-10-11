@@ -52,7 +52,7 @@ class animeManager:
             teks += (
                 f'{nomor}. {anime["judul"]} - '
                 f'{anime["episode"]} episode - '
-                f'{anime['status']}\n'
+                f'{anime["status"]}\n'
             )
 
         return teks

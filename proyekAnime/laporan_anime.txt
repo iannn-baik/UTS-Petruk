@@ -1,0 +1,16 @@
+LAPORAN LIST NONTON ANIME
+Jumlah anime: 11
+Total episode: 2487
+
+Daftar Anime:
+1. Naruto - 220 episode - Selesai
+2. Black Clover - 170 episode - selesai
+3. Attack On Titan - 210 episode - Selesai
+4. Detective Conan - 1100 episode - Selesai
+5. Bleach - 366 episode - Belum selesai
+6. Dragon Ball Z - 291 episode - Belum selesai
+7. Death Note - 37 episode - Selesai
+8. Dr.Stone - 24 episode - Selesai
+9. Dr.Stone season 2 - 11 episode - selesai
+10. Dr.Stone season 3  - 13 episode - Selesai
+11. Doraemon - 45 episode - Belum selesai

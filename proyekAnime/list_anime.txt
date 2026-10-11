@@ -1,7 +1,11 @@
 Naruto|220|Selesai
-black clover|170|selesai
-attack on titan|210|selesai
-Detective Conan|1100|Belum selesai
+Black Clover|170|selesai
+Attack On Titan|210|Selesai
+Detective Conan|1100|Selesai
 Bleach|366|Belum selesai
 Dragon Ball Z|291|Belum selesai
-Death Note|37|selesai
+Death Note|37|Selesai
+Dr.Stone|24|Selesai
+Dr.Stone season 2|11|selesai
+Dr.Stone season 3 |13|Selesai
+Doraemon|45|Belum selesai
